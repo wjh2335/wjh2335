@@ -5,5 +5,3 @@
 <p align="center">● <a href="https://solved.ac/profile/wjh2335">Solved.ac</a></p>
 
 <p align="center"><a href="https://solved.ac/wjh2335"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjh2335"></a></p>
-
-
