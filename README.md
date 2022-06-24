@@ -1,7 +1,17 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=Waving&color=99CCFF&height=200&section=header&text=wjh2335%20Github%20Profile&fontColor=6666FF&fontSize=30"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=Waving&color=99CCFF&height=200&section=header&text=JeHyun%20Woo%20(wjh2335)&fontColor=6666FF&fontSize=30"></p>
 
-<p align="center">● <a href="https://blog.naver.com/wjh2335">Blog</a></p>
-<p align="center">● <a href="https://www.acmicpc.net/user/wjh2335">BOJ</a></p>
-<p align="center">● <a href="https://solved.ac/profile/wjh2335">Solved.ac</a></p>
-
-<p align="center"><a href="https://solved.ac/wjh2335"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjh2335"></a></p>
+## School
+- (2019.03 ~ 2020.12) 안동대학교 컴퓨터공학과
+- (2020.02 ~ 2021.08) 군대
+- (2021.09 ~ 2022.06) 안동대학교 컴퓨터공학과 2학년 2학기 재학
+## Awards
+- (2019) 대경권 대학생 프로그래밍 경진대회 최우수상
+- (2022) 대경권 대학생 프로그래밍 경진대회 은상
+## Interest
+- Languages
+  - C
+  - C++
+- Problem Solving
+  - [Blog](https://blog.naver.com/wjh2335)
+  - [BOJ](https://www.acmicpc.net/user/wjh2335)
+  - [Solved.ac](https://solved.ac/profile/wjh2335)
