@@ -17,5 +17,5 @@
   - [Blog](https://blog.naver.com/wjh2335)
   - [BOJ](https://www.acmicpc.net/user/wjh2335)
   - [Solved.ac](https://solved.ac/profile/wjh2335)
-  
-<p align="center"><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wjh2335">
+
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjh2335)](https://solved.ac/wjh2335)
