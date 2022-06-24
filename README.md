@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=Waving&color=99CCFF&height=200&section=header&text=JeHyun%20Woo%20(wjh2335)&fontColor=6666FF&fontSize=30"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=Waving&color=99CCFF&height=170&section=header&text=JeHyun%20Woo%20(wjh2335)&fontColor=6666FF&fontSize=30"></p>
 
 ## School
 - (2019.03 ~ 2020.12) 안동대학교 컴퓨터공학과
